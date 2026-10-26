@@ -1,1 +1,1 @@
-var data = "101208"
+data = "I am dummy 1"
